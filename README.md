@@ -6,3 +6,5 @@ The problem statement chosen for this project is to predict fraudulent credit ca
 In this project, we will analyse customer-level data which has been collected and analysed during a research collaboration of Worldline and the Machine Learning Group.
 
 The dataset is taken from the Kaggle Website website and it has a total of 2,84,807 transactions, out of which 492 are fraudulent. Since the dataset is highly imbalanced, so it needs to be handled before model building.
+
+You can find the relative Data set on Kaggle.
